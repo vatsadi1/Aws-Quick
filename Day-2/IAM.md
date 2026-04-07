@@ -4,7 +4,7 @@
 
 **IAM = Identity + Access Control system in AWS**
 → Kaun login karega (Authentication)
-→ Kya access milega (Authorization)
+→ Kya access milega usko (Authorization)
 
 ---
 
